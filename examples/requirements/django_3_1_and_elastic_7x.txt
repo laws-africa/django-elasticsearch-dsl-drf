@@ -8,7 +8,7 @@ asgiref==3.4.1
     # via django
 attrs==21.2.0
     # via pytest
-backports.entry-points-selectable==1.1.0
+backports-entry-points-selectable==1.1.0
     # via virtualenv
 certifi==2021.5.30
     # via elasticsearch
@@ -51,7 +51,7 @@ elasticsearch-dsl==7.3.0
     # via
     #   -r elastic_7x.in
     #   django-elasticsearch-dsl
-factory_boy==2.11.1
+factory-boy==2.11.1
     # via -r test.in
 faker==8.1.4
     # via
@@ -69,7 +69,7 @@ packaging==21.0
     # via
     #   pytest
     #   tox
-pillow==8.3.1
+pillow==9.3.0
     # via -r common.in
 platformdirs==2.1.0
     # via virtualenv
