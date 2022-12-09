@@ -6,9 +6,9 @@
 #
 attrs==21.2.0
     # via pytest
-backports.entry-points-selectable==1.1.0
+backports-entry-points-selectable==1.1.0
     # via virtualenv
-certifi==2021.5.30
+certifi==2022.12.7
     # via elasticsearch
 coverage[toml]==5.5
     # via
@@ -48,7 +48,7 @@ elasticsearch-dsl==7.3.0
     # via
     #   -r elastic_7x.in
     #   django-elasticsearch-dsl
-factory_boy==2.11.1
+factory-boy==2.11.1
     # via -r test.in
 faker==8.1.4
     # via
