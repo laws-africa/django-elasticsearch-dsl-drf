@@ -16,7 +16,7 @@ click==8.0.1
     # via pip-tools
 colorama==0.4.4
     # via twine
-cryptography==3.4.7
+cryptography==39.0.1
     # via secretstorage
 docutils==0.17.1
     # via readme-renderer
